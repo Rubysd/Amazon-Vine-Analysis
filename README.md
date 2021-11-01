@@ -1,6 +1,6 @@
 # Amazon-Vine-Analysis
 
-# Furniture Products - Amazon Vine Analysis
+![image](https://user-images.githubusercontent.com/86340630/139617865-78b0abd9-4ce0-44f0-befa-63ac736b8e5b.png)
 
 ## Overview of Project
 
